@@ -1,0 +1,16 @@
+{
+    "name": "ahmedhasib24.uiframework.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f1f987efac1fd3f4bb14ddd46ed0d444"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

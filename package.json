@@ -1,0 +1,24 @@
+{
+    "name": "com.dotpixel.rainyuiframework",
+    "version": "1.0.0",
+    "displayName": "UI Framework",
+    "description": "A forked ui framework for unity. Forked from https://github.com/yankooliveira/uiframework",
+    "unity": "6000.0",
+    "keywords": [
+        "UI Framework",
+        "unity",
+        "ui",
+        "framework",
+        "UI",
+        "Framework"
+    ],
+    "author": {
+        "name": "RainY",
+        "email": "holypixel@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dotpixel/rainyuiframework.git"
+    },
+    "dependencies": {}
+}
